@@ -1,3 +1,4 @@
+//Key:AIzaSyDKHFI83TZr-sm3byW35wH0A8wdZqESmWE
 #include <Arduino.h>
 // Definição dos pinos do Sensor Ultrassônico
 const int trigPin = 12;
