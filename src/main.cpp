@@ -1,7 +1,9 @@
-//Key:AIzaSyDKHFI83TZr-sm3byW35wH0A8wdZqESmWE
 #include <Arduino.h>
+#define servo1 26
+#define servo2 27
+
 // Definição dos pinos do Sensor Ultrassônico
-const int trigPin = 12;
+const int trigPin = 21;
 const int echoPin = 13;
 
 // Definição dos pinos - Motor 1 (Ajustados)
